@@ -42,7 +42,7 @@ const emailNewUser = function(email){
         service: 'Gmail',
         auth: {
           user: 'laoceancoalition@gmail.com',
-          pass: 'makewaves'
+          pass: 'makewaves9'
         }
       }));
       let mailOptions = {
